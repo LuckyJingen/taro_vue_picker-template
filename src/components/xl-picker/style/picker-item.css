@@ -1,0 +1,25 @@
+  /* picker-view-column {
+    transition: all 0.1s;
+  } */
+
+  .xl-picker-column-flex0 {
+    flex: 0;
+  }
+
+  .xl-picker-column-flex1 {
+    flex: 1;
+  }
+
+  .xl-picker-column {
+    padding: 0;
+    font-size: 36rpx;
+    text-align: center;
+    box-sizing: border-box;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  /* .xl-picker-column-label {
+    transition: all 0.1s;
+  } */
